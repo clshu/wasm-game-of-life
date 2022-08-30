@@ -1,7 +1,7 @@
 [package]
-name = "wasm-game-of-life"
+name = "wasm-game-of-life-tvu"
 version = "0.1.0"
-authors = ["clshu <clshu2020@gmail.com>"]
+authors = ["michael shu <michael.shu@thermovisionusa.com>"]
 edition = "2018"
 
 [lib]
